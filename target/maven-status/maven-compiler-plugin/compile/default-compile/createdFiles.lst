@@ -1,0 +1,4 @@
+com\nagp\ucp\notification\config\RabbitConfig.class
+com\nagp\ucp\notification\handler\NotificationHandler.class
+com\nagp\ucp\UcpServiceNotificationApplication.class
+com\nagp\ucp\notification\config\MailConfig.class
