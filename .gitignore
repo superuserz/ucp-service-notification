@@ -3,6 +3,8 @@ HELP.md
 !**/src/main/**/target/
 !**/src/test/**/target/
 logs/
+target/
+target/**/*.*
 ### STS ###
 .apt_generated
 .classpath
@@ -11,6 +13,7 @@ logs/
 .settings
 .springBeans
 .sts4-cache
+.mvn
 
 ### IntelliJ IDEA ###
 .idea
